@@ -1,16 +1,20 @@
 # VeryEasyCrackme
 
-Author: `_int2eth`
-Link: `https://crackmes.one/crackme/671f212f9b533b4c22bd1edd`
 
 Host OS: Windows x86-64
+
+Author: `_int2eth`
+
+Link: `https://crackmes.one/crackme/671f212f9b533b4c22bd1edd`
+
+ZIP Password: `crackmes.one`
 
 ## Basic Interaction
 
 ```cmd
 .\VeryEasyCrackme.exe
 
-Digite a senha: something I dont know
+Digite a senha: somePassword1234@!
 Sua senha esta errada
 ```
 
