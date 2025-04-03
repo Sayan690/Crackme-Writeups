@@ -9,4 +9,5 @@ This is the collection of all the crackme I solve and the writeups I make for th
 ┣━ 📂 crackmes.one
 ┃  ┣━ 📜 VeryEasyCrackme.md
 ┃  ┣━ 📜 Simple Crackme #2.md
+┃  ┗━ 📜 Badgercracker.md
 ```
