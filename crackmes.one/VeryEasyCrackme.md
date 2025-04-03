@@ -1,9 +1,9 @@
 # VeryEasyCrackme
 
-
-Host OS: Windows x86-64
-
-Author: `_int2eth`
+- Author: `_int2eth`
+- Language: C/C++
+- Platform: Windows
+- Architectur: x86-64
 
 Link: `https://crackmes.one/crackme/671f212f9b533b4c22bd1edd`
 

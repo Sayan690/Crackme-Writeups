@@ -1,10 +1,10 @@
 # Simple Crackme 2
 
 
-Author: EzDiaoL
-Language: C/C++
-Platform: Windows
-Architecture: x86-64
+- Author: EzDiaoL
+- Language: C/C++
+- Platform: Windows
+- Architecture: x86-64
 
 Link: https://crackmes.one/crackme/671a4c3e9b533b4c22bd1bdd
 
