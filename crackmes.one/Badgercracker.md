@@ -1,9 +1,9 @@
 # Badgercracker
 
-Author: Badgercracker
-Language: C/C++
-Platform: Windows
-Architecture: x86-64
+- Author: Badgercracker
+- Language: C/C++
+- Platform: Windows
+- Architecture: x86-64
 
 Link: `https://crackmes.one/crackme/671f212f9b533b4c22bd1edd`
 
