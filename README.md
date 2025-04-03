@@ -7,5 +7,7 @@ This is the collection of all the crackme I solve and the writeups I make for th
 ```
 📦 Crackme-Writeups
 ┣━ 📂 crackmes.one
-┃  ┗━ 📜 VeryEasyCrackme.md
+┃  ┣━ 📜 copies
+┃  ┣━ 📜 VeryEasyCrackme.md
+┃  ┣━ 📜 Simple Crackme #2.md
 ```
