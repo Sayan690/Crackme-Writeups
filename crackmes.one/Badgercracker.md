@@ -5,7 +5,7 @@
 - Platform: Windows
 - Architecture: x86-64
 
-Link: [Badgercracker](https://crackmes.one/crackme/671f212f9b533b4c22bd1edd)
+Link: [Badgercracker](https://crackmes.one/crackme/678c9f854d850ac5f7dc5487)
 
 ZIP Password: `crackmes.one`
 
